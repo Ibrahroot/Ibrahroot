@@ -2,4 +2,4 @@
 - 👀 I’m interested in cybercrime investigation
 - 🌱 I’m currently learning malware analysis
 - 💞️ I’m looking to collaborate on same filed
-- 📫 How to reach me twitter:ibroot
+- 📫 How to reach me twitter:ib_root
