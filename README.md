@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ibrahim and I'm a Cyber Crime Investigator, from Saudi Arabia</h2>
+<h2 align="left">Hi 👋! My name is Ibrahim and I'm a Cyber threat specialist, from Saudi Arabia</h2>
 
 ###
 
@@ -59,7 +59,7 @@
   <a href="https://www.instagram.com/ib.root/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="@ib_root" target="_blank">
+  <a href="https://discord.com/channels/@ib_root" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   <a href="https://www.linkedin.com/in/ibrahim-alzahrani-ib-root/" target="_blank">
